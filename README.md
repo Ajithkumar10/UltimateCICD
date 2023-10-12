@@ -1,5 +1,6 @@
 ## This project I have created will build and deploy sample application using end to end pipeline using Jenkins (CI), ArgoCD (CD, GitOPS) and Kubernetes (Orchestration)
 
+![Uploading image.png…]()
 
 Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
 
