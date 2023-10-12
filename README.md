@@ -1,7 +1,9 @@
 ## This project I have created will build and deploy sample application using end to end pipeline using Jenkins (CI), ArgoCD (CD, GitOPS) and Kubernetes (Orchestration)
 
-![Uploading image.png…]()
+## ArgoCD Final Output will look like this -
+![image](https://github.com/Ajithkumar10/UltimateCICD/assets/8057634/ccbd0473-0793-43c3-80da-ba632b6cb89c)
 
+## To Begin 
 Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
 
 ## AWS EC2 Instance
