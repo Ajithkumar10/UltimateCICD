@@ -1,4 +1,4 @@
-This project I have created will build and deploy sample application using end to end pipeline using Jenkins (CI), ArgoCD (CD, GitOPS) and Kubernetes (Orchestration)
+## This project I have created will build and deploy sample application using end to end pipeline using Jenkins (CI), ArgoCD (CD, GitOPS) and Kubernetes (Orchestration)
 
 
 Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
