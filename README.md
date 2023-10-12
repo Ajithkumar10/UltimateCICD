@@ -1,4 +1,4 @@
-## This project I have created will build and deploy sample application using end to end pipeline using Jenkins (CI), ArgoCD (CD, GitOPS) and Kubernetes (Orchestration)
+## This project I have created will build and deploy sample application using end to end pipeline using Jenkins (CI), Maven, SonarQube, ArgoCD (CD, GitOPS), and Kubernetes (Orchestration)
 
 ## ArgoCD Final Output will look like this -
 ![image](https://github.com/Ajithkumar10/UltimateCICD/assets/8057634/ccbd0473-0793-43c3-80da-ba632b6cb89c)
